@@ -17,8 +17,8 @@
  ## PyCitySchools File Location
 
   - PyCitySchools.ipynb file can be found ---> pandas-challenge/PyCitySchools/PyCitySchools.ipynb
-  - schools_complete.csv can be found -------> pandas-challenge/Resources/schools_complete.csv
-  - students_complete.csv can be found -------> pandas-challenge/Resources/students_complete.csv
+  - schools_complete.csv can be found -------> pandas-challenge/PyCitySchools/Resources/schools_complete.csv
+  - students_complete.csv can be found -------> pandas-challenge/PyCitySchools/Resources/students_complete.csv
 
 ## PyCitySchools Source Code
 
